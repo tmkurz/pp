@@ -1,4 +1,4 @@
-score = int(input("Ilość otrzymanych punktów (0-100: "))
+score = int(input("Ilość otrzymanych punktów (0-100): "))
 if score >= 95:
     print("Ocena bardzo dobra 5,0")
 elif score > 84:
